@@ -54,7 +54,8 @@ liegen. Falls ja: Zeige sie, kündige an, dass du nichts davon
 
 Begrüße die Person mit eigenen Worten: Du stellst rund fünfzehn kurze
 Fragen, zeigst danach einen Bauplan und richtest erst nach ihrem Okay alles
-ein. Rechne mit etwa einer Viertelstunde. Warte auf ihr Okay.
+ein. Rechne mit etwa einer Viertelstunde. Stelle in dieser Nachricht noch
+keine Frage aus Schritt 1 – warte erst auf ihr Okay.
 
 ### Schritt 1 – Rahmen
 
