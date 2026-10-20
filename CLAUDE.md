@@ -3,7 +3,7 @@
 > Idee und Grundgerüst – geführtes Einrichten im Chat, Ordner 00–07 nach
 > PARA, Kontext-Profil – gehen auf das „Zweites Gehirn"-Konzept von
 > Julian Ivanov (YouTube) zurück. Diese Fassung ist eigenständig formuliert
-> und erweitert von Maria: Angestellte als Standardfall, Rückfragen bei
+> und erweitert von Maria (cbrt27): Angestellte als Standardfall, Rückfragen bei
 > Jobsuche und Elternzeit, optionale
 > Stärkenanalyse, Begriffe & Abkürzungen, Datumsstempel im Brain Dump,
 > Arbeitspakete zwischen Projekt-Datei und Daily Note, chronologische
