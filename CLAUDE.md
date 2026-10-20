@@ -3,7 +3,8 @@
 > Idee und Grundgerüst – geführtes Einrichten im Chat, Ordner 00–07 nach
 > PARA, Kontext-Profil – gehen auf das „Zweites Gehirn"-Konzept von
 > Julian Ivanov (YouTube) zurück. Diese Fassung ist eigenständig formuliert
-> und erweitert von Maria: Angestellte als Standardfall, optionale
+> und erweitert von Maria: Angestellte als Standardfall, Rückfragen bei
+> Jobsuche und Elternzeit, optionale
 > Stärkenanalyse, Begriffe & Abkürzungen, Datumsstempel im Brain Dump,
 > Arbeitspakete zwischen Projekt-Datei und Daily Note, chronologische
 > Zeitleisten, Empfehlungsliste, Daily-Note-Gerüst, Schreibstil-Kurzfassung.
@@ -65,11 +66,26 @@ Englisch oder gemischt?
 **F2:** Wie arbeitest du gerade?
 - **angestellt** (Standard),
 - **selbstständig oder freiberuflich**,
-- **in Ausbildung oder Studium** – auch neben dem Job.
+- **in Ausbildung oder Studium** – auch neben dem Job,
+- **auf Jobsuche**,
+- **in Elternzeit**.
 
 Bleibt die Antwort unklar, gilt „angestellt". Mehrfachnennungen sind
 möglich; dann richtest du die Fragen nach der Hauptsituation aus und
 ergänzt die anderen als Bereiche.
+
+**Rückfrage nur bei Jobsuche oder Elternzeit** – genau eine, als eigene
+Nachricht:
+- **Jobsuche:** „Suchst du eine Anstellung oder willst du dich
+  selbstständig machen?" Die Antwort bestimmt, welche Fassung von F10–F13
+  du nutzt und welche Beispiele du in F8 anbietest. Bleibt sie offen, gilt
+  die Anstellung. Ein Projekt **Jobsuche** kommt in jedem Fall in den
+  Bauplan, auch wenn es bei F7 nicht genannt wird.
+- **Elternzeit:** „Was hast du vor der Elternzeit gemacht, und was hast du
+  für die Zeit danach vor?" Beides gehört später in „Über mich" (Werdegang
+  und Ausblick). F10–F13 richten sich nach dem geplanten Danach; bleibt es
+  offen, gilt die Anstellung. In F8 bietest du die Beispiele für die
+  Elternzeit an.
 
 ### Schritt 2 – Profil
 
@@ -102,6 +118,10 @@ Biete passend zu F2 Beispiele an, wenn die Person zögert:
 - selbstständig: Akquise, Kund\*innen, Buchhaltung, Marketing,
   Weiterbildung, Gesundheit
 - Ausbildung/Studium: Studium, Prüfungen, Nebenjob, Finanzen, Gesundheit
+- Jobsuche: Beispiele der angestrebten Form (angestellt bzw.
+  selbstständig), dazu Bewerbungen, Netzwerk, Weiterbildung
+- Elternzeit: zuerst Familienthemen – Familie, Kinder, Haushalt,
+  Gesundheit, Finanzen –, dann Wiedereinstieg und Weiterbildung
 
 **F9:** Zu welchen Themen sammelst du Wissen – Fachthemen, Werkzeuge,
 Methoden, Hobbys?
@@ -114,7 +134,8 @@ Erkläre kurz: Die Dateien in `00 Kontext/` sind die Referenz für alles,
 was Claude später für die Person formuliert – Mails, Texte, Bewerbungen,
 Präsentationen. Sie wachsen mit der Zeit.
 
-**Standardfall: angestellt** (gilt auch für Ausbildung/Studium sinngemäß)
+**Standardfall: angestellt** (gilt sinngemäß auch für Ausbildung/Studium
+sowie für Jobsuche und Elternzeit mit dem Ziel Anstellung)
 
 **F10 – Zielgruppen:** Mit wem hast du es hauptsächlich zu tun, und für wen
 schreibst du? Denk an Team, Führungskraft, Stakeholder, interne oder externe
@@ -135,7 +156,8 @@ Auftritt, z. B. auf LinkedIn oder mit Vorträgen? Gibt es Themen, mit denen
 du wahrgenommen werden willst, einen Claim oder Farben? Wenn nicht, ist das
 völlig in Ordnung.
 
-**Alternative: selbstständig oder freiberuflich**
+**Alternative: selbstständig oder freiberuflich** (auch bei Jobsuche oder
+Elternzeit mit dem Ziel Selbstständigkeit)
 
 **F10 – Kund\*innen:** Für wen arbeitest du? Welche Probleme und Ziele
 haben diese Menschen typischerweise?
